@@ -13,7 +13,7 @@ The Model M2, short for Multi-Modality Gripper, is a minimalist gripper with a s
 
 ======= 
 
-To start, open up the assembly files for the various hands. Complete sets of stl's should be in each hand directory.
+To start, open up the assembly files for the various hands. Complete sets of .stl and .step files should be in each hand directory. Edrawings files are also available for those who do not have Solidworks. A free viewer for eDrawings is available at http://www.edrawingsviewer.com/
 
 Things to note:
 - Most Solidworks parts have dependencies on other parts. To avoid warnings/errors when opening assemblies, be sure to have "Load referenced documents" set to "All" in Options>>External References
