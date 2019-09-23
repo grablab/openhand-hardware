@@ -3,7 +3,7 @@ Yale OpenHand Project - Hardware
 
 ![Yale Openhand](Banner.jpg)
 
-CAD files for the various OpenHand hardware designs. Complete documentation, including assembly directions, can be found on the [OpenHand website](http://www.eng.yale.edu/grablab/openhand/). For simply printing a certain hand model, navigate to the folder of the same name, and all the parts can be found in the .stl folder. For modifying the SolidWorks files, all hand-specific parts and assemblies are located inside of the hand’s folder (with exception of the M2 and VF, which share the same base as the T42). Additional parts can be found within /fingers, /couplings, or /common parts. 
+CAD files for the various OpenHand hardware designs. Complete documentation, including assembly directions, can be found on the [OpenHand website](http://www.eng.yale.edu/grablab/openhand/). Control code for the most widely used hands (Model T, Model T42, Model O), with addition to a ROS node, can be found on our [openhand_node](https://github.com/grablab/openhand_node) page. For simply printing a certain hand model, navigate to the folder of the same name, and all the parts can be found in the .stl folder. For modifying the SolidWorks files, all hand-specific parts and assemblies are located inside of the hand’s folder (with exception of the M2 and VF, which share the same base as the T42). Additional parts can be found within /fingers, /couplings, or /common parts. 
 
 All hands follow the same naming conventions with exception of Model Q. A basic dictionary of part names follows: 
 a*_handName: Larger pieces used for structure. Ordered from top of the hand to the bottom. 
