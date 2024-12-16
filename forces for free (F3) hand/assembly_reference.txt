@@ -1,0 +1,1 @@
+Please see the T42 assembly files and the assembly file "F3_finger_assembly.SLDASM" for assemble reference.
