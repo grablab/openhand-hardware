@@ -1,0 +1,7 @@
+﻿"R1vert_ang"= 55deg
+"Rsph"= 100mm
+"R1R2_dist"= 70mm
+"R2S_dist"= 70mm
+"BaseAng1"= 90deg
+"BaseAng2"= 210deg
+"BaseAng3"= 330deg
